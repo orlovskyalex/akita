@@ -76,6 +76,10 @@
           {"label": "Firebase [https://bit.ly/2H3lgkW]", "value": "Firebase"}
         ]
       }
+    },
+    "parentDir": {
+      "type": "string",
+      "description": "Directory where this feature will be created in"
     }
   },
   "required": []
